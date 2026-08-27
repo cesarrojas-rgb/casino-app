@@ -1,11 +1,12 @@
 # config.py
 
-# Paleta de colores casino
-COLOR_BG = "#1e1e1e"        # Fondo oscuro
-COLOR_CARD = "#2d2d2d"      # Tarjetas/Paneles
-COLOR_GOLD = "#d4af37"      # Dorado/Acentos
-COLOR_ACCENT = "#8b0000"    # Rojo Casino
-COLOR_TEXT = "#ffffff"      # Texto blanco
+# Paleta Verde Paño de Casino
+COLOR_BG = "#0c3b1e"        # Verde paño oscuro (fondo principal)
+COLOR_CARD = "#14522d"      # Verde marco/mesa
+COLOR_GOLD = "#ffd700"      # Dorado brillante para títulos y acentos
+COLOR_ACCENT = "#990000"    # Rojo vino para botones
+COLOR_BLACK = "#1a1a1a"      # Negro mate para la ruleta
+COLOR_TEXT = "#ffffff"      # Blanco para texto
 
 FONT_TITLE = ("Helvetica", 18, "bold")
-FONT_MAIN = ("Helvetica", 12)
+FONT_MAIN = ("Helvetica", 12, "bold")
